@@ -125,3 +125,5 @@ This project can be applied in various domains where large collections of images
 | **Forensics & Investigation** | Quickly filter crime scene images containing specific objects (e.g., weapons, vehicles).                |
 
 This makes the system **highly useful** wherever image datasets are large and manual searching is **time-consuming or impossible**.
+
+
